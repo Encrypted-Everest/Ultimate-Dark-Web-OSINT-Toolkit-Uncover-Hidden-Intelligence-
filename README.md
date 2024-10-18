@@ -1,4 +1,3 @@
-# 🕶️ Ultimate Dark Web OSINT Toolkit: Uncover Hidden Intelligence 🌐
 
 # 🌐 Dark Web OSINT Repositories and Tools 🕵️‍♂️🔍
 
